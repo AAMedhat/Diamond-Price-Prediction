@@ -23,23 +23,23 @@ Diamonds are rare and valuable, and their pricing is complex. The value of a dia
 
   # Categorical Data
   
-    Decoding categorical variables such as cut, color, and clarity.
+  Decoding categorical variables such as cut, color, and clarity.
 
   # Numerical Data
   
-    Checking for NULL values and cleaning redundant data.
+  Checking for NULL values and cleaning redundant data.
 
-    Scaling the data to minimize outliers.
+  Scaling the data to minimize outliers.
 
-    Visualizing data to identify correlations with price.
+  Visualizing data to identify correlations with price.
     
   # Libraries Used
   
-    numpy
+  numpy
 
-    pandas
+  pandas
     
-    seaborn
+  seaborn
 
 
 # Methods
@@ -47,21 +47,21 @@ I employed three machine learning models to predict diamond prices:
 
   # Linear Regression
   
-    Accuracy: 92.344%
+  Accuracy: 92.344%
     
-    Mean Squared Error: 0.278554
+  Mean Squared Error: 0.278554
     
   # Decision Tree Regressor
   
-    Accuracy: 96.536%
+  Accuracy: 96.536%
     
-    Mean Squared Error: 0.187384
+  Mean Squared Error: 0.187384
     
   # Random Forest Regressor
   
-    Accuracy: 97.909%
-    
-    Mean Squared Error: 0.145573
+  Accuracy: 97.909%
+  
+  Mean Squared Error: 0.145573
 
 
 # Results
@@ -83,19 +83,19 @@ The Random Forest Regressor proved to be the most effective model for predicting
 
   # Image_prediction_CNN.ipynb
 
-    This notebook contains the implementation of Convolutional Neural Networks (CNNs) for predicting the types of expensive gemstones from images. It includes data preprocessing, model architecture, training,   and evaluation.
+  This notebook contains the implementation of Convolutional Neural Networks (CNNs) for predicting the types of expensive gemstones from images. It includes data preprocessing, model architecture, training,     and evaluation.
 
   # Edit_Image_folders.ipynb
 
-    This notebook is used for organizing and managing the images of diamonds into their respective folders based on types (round, cushion, emerald, heart, oval, radiant). It includes code for renaming, sorting, and categorizing images.
+  This notebook is used for organizing and managing the images of diamonds into their respective folders based on types (round, cushion, emerald, heart, oval, radiant). It includes code for renaming, sorting,  and categorizing images.
 
   # diamond.ipynb
 
-    This notebook focuses on exploratory data analysis (EDA) and initial preprocessing of the diamond dataset. It includes visualizations to understand the distribution and relationships of different features with the diamond price.
+  This notebook focuses on exploratory data analysis (EDA) and initial preprocessing of the diamond dataset. It includes visualizations to understand the distribution and relationships of different features with the diamond price.
 
   # Diamond_price_predection.ipynb
 
-    This notebook contains the implementation of the three machine learning models (Linear Regression, Decision Tree Regressor, and Random Forest Regressor) for predicting diamond prices. It includes data preprocessing, model training, evaluation, and comparison of results.
+  This notebook contains the implementation of the three machine learning models (Linear Regression, Decision Tree Regressor, and Random Forest Regressor) for predicting diamond prices. It includes data preprocessing, model training, evaluation, and comparison of results.
 
 
 # Repository Structure
