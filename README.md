@@ -100,48 +100,48 @@ The Random Forest Regressor proved to be the most effective model for predicting
 
 # Repository Structure
 
-Diamond-Price-Prediction/
-├── all_images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-├── diamonds/
-│    ├── images/
-│    │   ├── cushion/
-│    │   │   ├── image1.jpg
-│    │   │   ├── image2.jpg
-│    │   │   └── ...
-│    │   ├── emerald/
-│    │   │   ├── image1.jpg
-│    │   │   ├── image2.jpg
-│    │   │   └── ...
-│    │   ├── heart/
-│    │   │   ├── image1.jpg
-│    │   │   ├── image2.jpg
-│    │   │   └── ...
-│    │   ├── oval/
-│    │   │   ├── image1.jpg
-│    │   │   ├── image2.jpg
-│    │   │   └── ...
-│    │   ├── radiant/
-│    │   │   ├── image1.jpg
-│    │   │   ├── image2.jpg
-│    │   │   └── ...
-│    │   └── round/
-│    │       ├── image1.jpg
-│    │       ├── image2.jpg
-│    │       └── ...
-│    │   ├── data_cushion.csv
-│    │   ├── data_emerald.csv
-│    │   ├── data_heart.csv
-│    │   ├── data_oval.csv
-│    │   ├── data_radiant.csv
-│    │   └── data_round.csv
-├── notebooks/
-│   ├── Image_prediction_CNN.ipynb
-│   ├── Edit_Image_folders.ipynb
-│   ├── diamond.ipynb
-│   ├── Diamond_price_predection.ipynb
+    Diamond-Price-Prediction/
+    ├── all_images/
+    │   ├── image1.jpg
+    │   ├── image2.jpg
+    │   └── ...
+    ├── diamonds/
+    │    ├── images/
+    │    │   ├── cushion/
+    │    │   │   ├── image1.jpg
+    │    │   │   ├── image2.jpg
+    │    │   │   └── ...
+    │    │   ├── emerald/
+    │    │   │   ├── image1.jpg
+    │    │   │   ├── image2.jpg
+    │    │   │   └── ...
+    │    │   ├── heart/
+    │    │   │   ├── image1.jpg
+    │    │   │   ├── image2.jpg
+    │    │   │   └── ...
+    │    │   ├── oval/
+    │    │   │   ├── image1.jpg
+    │    │   │   ├── image2.jpg
+    │    │   │   └── ...
+    │    │   ├── radiant/
+    │    │   │   ├── image1.jpg
+    │    │   │   ├── image2.jpg
+    │    │   │   └── ...
+    │    │   └── round/
+    │    │       ├── image1.jpg
+    │    │       ├── image2.jpg
+    │    │       └── ...
+    │    │   ├── data_cushion.csv
+    │    │   ├── data_emerald.csv
+    │    │   ├── data_heart.csv
+    │    │   ├── data_oval.csv
+    │    │   ├── data_radiant.csv
+    │    │   └── data_round.csv
+    ├── notebooks/
+    │   ├── Image_prediction_CNN.ipynb
+    │   ├── Edit_Image_folders.ipynb
+    │   ├── diamond.ipynb
+    │   ├── Diamond_price_predection.ipynb
 
 
 
