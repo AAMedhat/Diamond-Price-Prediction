@@ -14,7 +14,7 @@ Diamonds are rare and valuable, and their pricing is complex. The value of a dia
 
   * Dataset Name: Diamonds Prices
   
-  * Source: [Kaggle Diamonds Prices Dataset](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
+  * Source: [Kaggle Diamonds Prices Dataset](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices).
 
   * Description: The dataset contains 53,940 diamonds with 10 features: carat, cut, color, clarity, depth, table, price, x (length in mm), y (width in mm), and z (depth in mm).
 
