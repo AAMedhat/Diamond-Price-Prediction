@@ -89,7 +89,7 @@ The Random Forest Regressor proved to be the most effective model for predicting
 
   This notebook is used for organizing and managing the images of diamonds into their respective folders based on types (round, cushion, emerald, heart, oval, radiant). It includes code for renaming, sorting,  and categorizing images.
 
-  ### diamond.ipynb
+  ### diamond.py
 
   This notebook focuses on exploratory data analysis (EDA) and initial preprocessing of the diamond dataset. It includes visualizations to understand the distribution and relationships of different features with the diamond price.
 
