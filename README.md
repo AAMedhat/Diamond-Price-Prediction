@@ -76,7 +76,7 @@ The Random Forest Regressor proved to be the most effective model for predicting
 
 ## References
 
-[Kaggle Diamonds Prices Dataset](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices)
+- [Kaggle Diamonds Prices Dataset](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices)
 
 
 ## Notebooks Description
