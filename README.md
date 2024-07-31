@@ -137,11 +137,10 @@ The Random Forest Regressor proved to be the most effective model for predicting
     │    │   ├── data_oval.csv
     │    │   ├── data_radiant.csv
     │    │   └── data_round.csv
-    ├── notebooks/
-    │   ├── Image_prediction_CNN.ipynb
-    │   ├── Edit_Image_folders.ipynb
-    │   ├── diamond.ipynb
-    │   ├── Diamond_price_predection.ipynb
+    ├── Image_prediction_CNN.ipynb
+    ├── Edit_Image_folders.ipynb
+    ├── diamond.py
+    ├── Diamond_price_predection.ipynb
 
 
 
